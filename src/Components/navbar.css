@@ -1,0 +1,32 @@
+.container{
+    height: 100px;
+}
+.imag1{
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+}
+.imag1 img{
+    height: 100px;
+    width: 200px; 
+}
+.imag2{
+    height: 100px;
+    width: 80.666%;
+    float: right;
+    justify-content: end;
+}
+.imag2 img{
+    height: 100px;
+    width: 50.666%;
+    float: right;
+}
+.menu ul{
+    border-color: #ffa900;
+    
+}
+.row{
+    width: 100%;
+    
+}
+
